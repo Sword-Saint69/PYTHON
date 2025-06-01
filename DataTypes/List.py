@@ -55,3 +55,10 @@ print(arr1)
 #Reversing a List
 arr1.reverse()
 print(arr1)
+
+#Copy
+
+l1_copy = l1.copy()
+print(l1_copy)
+
+#sort
