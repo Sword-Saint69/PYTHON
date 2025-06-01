@@ -52,4 +52,6 @@ arr1.pop()
 print(arr1)
 
 
-#R
+#Reversing a List
+arr1.reverse()
+print(arr1)
