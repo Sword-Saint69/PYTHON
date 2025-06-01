@@ -62,3 +62,5 @@ l1_copy = l1.copy()
 print(l1_copy)
 
 #sort
+arr1.sort()
+print(arr1)
